@@ -45,6 +45,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mirkamali/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirkamali" height="30" width="40" /></a>
 <a href="https://t.me/mirkamali12" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" height="30" width="30" /></a>
+
+
 </p>
 <br>
 
